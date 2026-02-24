@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: "pls give your imjage information"
+        image: nareshh/springapp:latest
         ports:
         - containerPort: 8080
         env:
